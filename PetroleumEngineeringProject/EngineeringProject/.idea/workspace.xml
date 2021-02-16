@@ -1,0 +1,155 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="EngineeringProject:jar" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3e50372a-c4e9-4ac2-b859-c64a1d4e4df2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+    <option name="PARALLEL_COMPILATION" value="true" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="alwaysUpdateSnapshots" value="true" />
+        <option name="usePluginRegistry" value="true" />
+        <option name="workOffline" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Xt3U1vysQPgBtRu0oeVQT6yqus" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="C:/Program Files (x86)/Groovy/Groovy-3.0.0/lib" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager">
+    <configuration name="MainExecutor" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="MAIN_CLASS_NAME" value="Gas_Engineering.MainExecutor" />
+      <module name="EngineeringProject" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage" sample_coverage="false" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <envs>
+        <env name="IntelliJ IDEA Community Edition" value="C:\Program Files\JetBrains\IntelliJ IDEA Community Edition 2019.3.1\bin" />
+      </envs>
+      <option name="MAIN_CLASS_NAME" value="Gas_Engineering.MainExecutor" />
+      <module name="EngineeringProject" />
+      <option name="REDIRECT_INPUT" value="true" />
+      <option name="INPUT_FILE" value="C:/" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e50372a-c4e9-4ac2-b859-c64a1d4e4df2" name="Default Changelist" comment="" />
+      <created>1581851581145</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1581851581145</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="275" y="23" key="#Project_Structure" timestamp="1581896588794">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="23" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1581896588794" />
+    <state x="243" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581938401150">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="243" y="35" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581938401150" />
+    <state x="379" y="78" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog" timestamp="1581909011836">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="78" key="#com.intellij.featureStatistics.actions.ShowFeatureUsageStatisticsDialog/0.0.1366.728@0.0.1366.728" timestamp="1581909011836" />
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1581938054257">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="70" key="#com.intellij.ide.macro.MacrosDialog/0.0.1366.728@0.0.1366.728" timestamp="1581938054257" />
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1581917406219">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="412" y="149" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1581917406219" />
+    <state x="417" y="127" key="EnvironmentVariablesDialog" timestamp="1581897889433">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="417" y="127" key="EnvironmentVariablesDialog/0.0.1366.728@0.0.1366.728" timestamp="1581897889433" />
+    <state x="463" y="119" key="FileChooserDialogImpl" timestamp="1581938128941">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="119" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1581938128941" />
+    <state width="1286" height="101" key="GridCell.Tab.0.bottom" timestamp="1581982885971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="101" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581982885971" />
+    <state width="1286" height="101" key="GridCell.Tab.0.center" timestamp="1581982885971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="101" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581982885971" />
+    <state width="1286" height="101" key="GridCell.Tab.0.left" timestamp="1581982885971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="101" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581982885971" />
+    <state width="1286" height="101" key="GridCell.Tab.0.right" timestamp="1581982885971">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1286" height="101" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581982885971" />
+    <state x="202" y="0" key="SettingsEditor" timestamp="1581917487043">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="202" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1581917487043" />
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1581937841440">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="384" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1581937841440" />
+    <state x="339" y="164" key="run.anything.popup" timestamp="1581943049161">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="339" y="164" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1581943049161" />
+  </component>
+</project>

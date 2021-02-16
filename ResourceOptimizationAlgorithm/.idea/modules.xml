@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FileOptimalCore/FileOptimalCore.iml" filepath="$PROJECT_DIR$/FileOptimalCore/FileOptimalCore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ResourceOptimizationAlgorithm.iml" filepath="$PROJECT_DIR$/.idea/ResourceOptimizationAlgorithm.iml" />
+    </modules>
+  </component>
+</project>
